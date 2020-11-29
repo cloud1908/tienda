@@ -48,15 +48,16 @@
     position: relative;
 }
 #nav li a {
-    color: #FFFFFF;
-    display: block;
-    float: left;
-    font-weight: normal;
-    height: 30px;
-    padding: 23px 20px 0;
-    position: relative;
-    text-decoration: none;
-    text-shadow: 1px 1px 1px #000000;
+	color: #FFFFFF;
+	display: block;
+	float: left;
+	font-weight: normal;
+	height: 30px;
+	padding: 23px 20px 0;
+	position: relative;
+	text-decoration: none;
+	text-shadow: 1px 1px 1px #000000;
+	overflow: visible;
 }
 #nav li:hover > a {
     color: #00B4FF;
